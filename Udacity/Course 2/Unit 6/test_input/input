@@ -1,0 +1,9 @@
+#words = input("Enter words, separated by commas")
+
+#print(words)
+
+#returns a list of strings
+numbers = input("Enter numbers, separated by commas")
+
+for num in numbers:
+    print(num)
