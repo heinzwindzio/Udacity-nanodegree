@@ -1,0 +1,10 @@
+setup.py
+hw-distributions/Gaussiandistribution.py
+hw-distributions/Generaldistribution.py
+hw-distributions/__init__.py
+hw-distributions/example_code.py
+hw_distributions.egg-info/PKG-INFO
+hw_distributions.egg-info/SOURCES.txt
+hw_distributions.egg-info/dependency_links.txt
+hw_distributions.egg-info/not-zip-safe
+hw_distributions.egg-info/top_level.txt
